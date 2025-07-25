@@ -56,12 +56,7 @@
 - **Modular Architecture**: Clean separation of concerns
 - **Utility Functions**: DRY principle implementation
 
-## 📸 Screenshots
 
-<div align="center">
-  <img src="./screenshots/main-view.png" alt="Main Product View" width="600" />
-  <p><i>Main Product Grid View</i></p>
-</div>
 
 <div align="center">
   <img src="./screenshots/add-product.png" alt="Add Product Modal" width="400" />
